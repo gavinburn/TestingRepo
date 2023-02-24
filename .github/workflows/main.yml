@@ -1,0 +1,2 @@
+- name: Update work item state when PR is merged, opened, closed or when branch is created
+  uses: MarcinGadomski94/pr-update-work-item-state@v2.0.3
